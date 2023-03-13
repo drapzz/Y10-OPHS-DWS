@@ -1,0 +1,27 @@
+#Variable 02
+
+name1 = "Daishon"
+name2 = "cj"
+name3 = "david"
+name4 = "andrew"
+name5 = "manoah"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+town1= "Croydon"
+town2= "brixton"
+town3= "peckham"
+town4= "shrublands"
+town5= "edminton"
+
+print("")
+
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
