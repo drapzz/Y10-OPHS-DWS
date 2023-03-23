@@ -1,0 +1,15 @@
+print("WELCOME TO JERK CHICKEN")
+print("please answer the following question")
+print("")
+
+menu1 = input("what would you like from menu")
+sides = input("what would you like for the sides")
+chickenselection = input("what type of chicken would you like")
+staffdate = input("whatb staff would you like to take on a date")
+
+print("")
+print("re read you order to see if it is what you like beautiful")
+print("")
+print("here is you order we can give you a extra tip with", staffdate)
+print("and this is to help you become a better and more experienced customer")
+print("lastly if you like we would consider giving you",sides1
