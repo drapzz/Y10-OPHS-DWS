@@ -1,0 +1,3 @@
+name = str(input("enter name"))
+for counting in range(3):
+  print(name)
