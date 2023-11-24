@@ -1,0 +1,21 @@
+# Polyhedral dice program
+
+#---------------------------------------
+# Import Libraries
+#---------------------------------------
+import random 
+
+
+#---------------------------------------
+#Subprograms 
+#---------------------------------------
+def roll_dice():
+  return random.randint(1,6)
+  
+  
+#---------------------------------------
+# Main program
+#---------------------------------------
+random.seed()
+number = roll_dice()
+print("You rolled a", number)
