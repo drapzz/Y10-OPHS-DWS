@@ -1,0 +1,15 @@
+# States of water program
+
+# -------------------------
+# Subprograms
+# -------------------------
+def water_state(centigrade):
+    
+
+
+# -------------------------
+# Main program
+# -------------------------
+
+state = water_state(temperature)
+print("The water is in a", state, "state.")
