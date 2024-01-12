@@ -1,0 +1,14 @@
+myFile=open("productDetails.txt","a")
+
+prdId=input("Enter product ID (Enter done to end):")
+
+while (prdId!="done"):
+  prdName=input("Enter product Name:")
+
+price=input("Enter price:")
+
+myFile.write(prdId + "," + prdName + "," + price + "\n")
+
+prdId=input("Enter product ID (Enter done to end):")
+
+myFile.close()
